@@ -1,2 +1,3 @@
 internal/*.so /usr/lib/
-public/*.h /usr/include/
+public/*.h /usr/include/cld2/public
+internal/*.h /usr/include/cld2/internal
