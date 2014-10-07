@@ -1,7 +1,10 @@
-Package: cld2
-Maintainer: viktor@scrapinghub.com
+Source: cld2
 Section: libs
-Version: 0.0.1
+Priority: optional
+Maintainer: viktor@scrapinghub.com
+Standards-Version: 0.0.1
+
+Package: cld2
 Architecture: all
 Description: Compact Language Detector 2
  Debian package for cld2 (https://code.google.com/p/cld2/)
