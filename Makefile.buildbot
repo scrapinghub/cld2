@@ -1,0 +1,3 @@
+
+prebuild:
+	cd ./internal && ./compile_libs.sh
