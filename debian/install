@@ -1,1 +1,2 @@
 internal/*.so /usr/lib/
+public/*.h /usr/include/
